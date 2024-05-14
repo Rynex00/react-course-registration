@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Luxury Fountain Pen",
+    "description": "this exquisite fountain pen set features a sleek design with gold accents",
+    "image": "https://i.postimg.cc/P5HwZ84T/asset-1.png",
+    "price": 149.99,
+    "time": 8
+  },
+  {
+    "id": 2,
+    "title": "Vintage Leather",
+    "description": "carry your essentials in style with this vintage-inspired leather messenger bag.",
+    "image": "https://i.postimg.cc/zXhhyYsm/asset-2.png",
+    "price": 129.95,
+    "time": 9
+  },
+  {
+    "id": 3,
+    "title": "Smart Home Security",
+    "description": "keep your home safe and secure with this advanced smart security camera. with hd video recording.",
+    "image": "https://i.postimg.cc/Mp8QRrwn/asset-3.png",
+    "price": 199.99,
+    "time": 4
+  },
+  {
+    "id": 4,
+    "title": "Gourmet Chocolate",
+    "description": "indulge your sweet tooth with this luxurious gourmet chocolate gift box. handcrafted with the finest ingredients.",
+    "image": "https://i.postimg.cc/8CpfXJjD/asset-4.png",
+    "price": 59.99,
+    "time": 7
+  },
+  {
+    "id": 5,
+    "title": "Wireless Bluetooth",
+    "description": "experience premium sound quality and wireless convenience with these stylish bluetooth headphones.",
+    "image": "https://i.postimg.cc/wBwyCqmN/asset-5.png",
+    "price": 79.95,
+    "time": 3
+  },
+  {
+    "id": 6,
+    "title": "Premium Leather",
+    "description": "elevate your everyday style with this premium leather wallet. with multiple card slots",
+    "image": "https://i.postimg.cc/sX8B2TKD/asset-6.png",
+    "price": 49.99,
+    "time": 6
+  },
+  {
+    "id": 7,
+    "title": "Designer Sunglasses",
+    "description": "make a statement with these designer sunglasses featuring a modern frame and uv protection lenses.",
+    "image": "https://i.postimg.cc/ZndWv6DP/asset-7.png",
+    "price": 99.95,
+    "time": 5
+  },
+  {
+    "id": 8,
+    "title": "Organic Cotton",
+    "description": "wrap yourself in luxury with this organic cotton bath towel set. soft, absorbent, and eco-friendly.",
+    "image": "https://i.postimg.cc/grbnVrfC/asset-8.png",
+    "price": "39.99",
+    "time": 2
+  },
+  {
+    "id": 9,
+    "title": "Stainless Steel",
+    "description": "upgrade your kitchen with this high-quality stainless steel knife set. with a variety of knives for all your cutting needs.",
+    "image": "https://i.postimg.cc/XNpDqxnM/asset-9.png",
+    "price": 69.99,
+    "time": 3
+  }
+]
